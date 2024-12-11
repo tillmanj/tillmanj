@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jon Tillman</h1>
 <h3 align="center">A farmer, writer, and photographer from the southern Appalachian mountains of the USA living in Asturias, northern Spain</h3>
+
 - 🔭 I’m currently working on [Eating Asturias](https://github.com/tillmanj/eatingasturias)
+
 - 🌱 I’m currently learning **typescript**
+
 - 📝 I regularly write articles on [https://jontillman.me](https://jontillman.me)
+
 - 💬 Ask me about **food, writing for the internet, and fixing recipes**
+
 - 📫 How to reach me **jon@jontillman.me**
+
 - ⚡ Fun fact **I like goats more than I like people**
 
 ### Blogs posts
